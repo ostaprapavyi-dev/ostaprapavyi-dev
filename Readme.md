@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Ostap Rapavyi — Senior Python Full-Stack Engineer" width="100%" />
+<img src="./bannerHead.svg" alt="Ostap Rapavyi — Senior Python Full-Stack Engineer" width="100%" />
 
 <br/>
 
 <a href="https://t.me/Ostap_R2"><img src="https://img.shields.io/badge/Telegram-@Ostap__R2-29A9EA?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:rapavyiostap@gmail.com"><img src="https://img.shields.io/badge/Email-rapavyiostap%40gmail.com-FF9D2E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ostap-rapavyi-b3aa51422/"><img src="https://img.shields.io/badge/LinkedIn-Ostap%20Rapavyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=Senior+Python+Full-Stack+Engineer;AI+%26+LLM+Enthusiast;Building+scalable+backend+systems" alt="Typing SVG" />
 
 </div>
 
@@ -76,59 +80,11 @@ I'm also actively diving into **AI engineering** — integrating LLMs (OpenAI AP
 
 ### 💼 Experience
 
-<table>
-<tr>
-<td valign="top" width="130">
+Over the past **6+ years**, I've grown from writing my first Django views to owning entire backend architectures for production systems handling real traffic and real consequences. Most of that time has been spent deep inside **Python** — and the more I work with it, the more I appreciate it. There's something genuinely satisfying about the language's clarity: you can express complex business logic in a way that reads almost like plain English, and that clarity scales — from a quick script to a distributed system with Celery workers and message queues humming in the background.
 
-<img src="https://img.shields.io/badge/2025—2026-141b30?style=flat-square" /><br/><br/>
-🟢 <b>Current</b>
+What I actually enjoy most isn't just "writing code that works" — it's the process of taking a vague business requirement and turning it into a clean, well-structured API that other engineers can build on top of without fighting it. I've spent a lot of time optimizing PostgreSQL queries that were bringing systems to a crawl, designing async processing pipelines with Redis and Celery so that heavy tasks don't block the user experience, and making sure the REST APIs I ship are secure and predictable enough to trust in production. I've also mentored junior engineers and led code reviews — not because I like pointing out mistakes, but because I remember what it felt like to be the person who needed that guidance, and I'd rather pass it forward.
 
-</td>
-<td valign="top">
-
-#### Full Stack Engineer <sub>· Company under NDA</sub>
-
-Delivered scalable backend services for confidential enterprise projects — designed secure, production-grade REST APIs and optimized PostgreSQL data models for high-load scenarios. Built asynchronous processing pipelines with **Redis & Celery** to raise system throughput, integrated third-party services, and shipped production-ready deployments with **Docker & AWS**.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="20"/>
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td valign="top" width="130">
-
-<img src="https://img.shields.io/badge/2022—2025-141b30?style=flat-square" />
-
-</td>
-<td valign="top">
-
-#### Full Stack Engineer <sub>· Tecco</sub>
-
-Designed and built complex web applications end-to-end using **Django, FastAPI, React & Next.js**. Integrated **OpenAI APIs** into product features through prompt engineering, bringing AI-assisted functionality into live products and automating parts of the dev workflow. Implemented real-time functionality with **WebSockets**, built async & messaging infrastructure with **Redis & RabbitMQ**, participated in architecture decisions, led code reviews, and mentored junior engineers.
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" height="20"/>
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td valign="top" width="130">
-
-<img src="https://img.shields.io/badge/2020—2022-141b30?style=flat-square" />
-
-</td>
-<td valign="top">
-
-#### Full Stack Engineer <sub>· SoftServe</sub>
-
-Developed and maintained business web applications using **Django, Flask & React**. Built and consumed REST APIs supporting core business functionality, optimized PostgreSQL queries to improve response times, implemented new features, and collaborated closely within Agile development teams.
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square" height="20"/>
-
-</td>
-</tr>
-</table>
+Somewhere along the way, **AI stopped being a side curiosity and became something I'm genuinely excited about**. I started experimenting with the OpenAI API almost as a hobby — trying to automate a repetitive part of my own workflow — and it snowballed into something bigger: integrating LLMs directly into product features, writing prompts that actually hold up in production instead of just looking good in a demo, and thinking seriously about how AI agents and RAG pipelines will reshape the kind of software we build over the next few years. I spend a lot of my free time reading papers, testing new models, and prototyping small AI-powered tools, partly because it's genuinely fun, and partly because I think the engineers who understand both classic backend engineering *and* how to work with LLMs will be the ones building the most interesting products going forward. That's the intersection I want to keep living in.
 
 <br/>
 
@@ -138,14 +94,19 @@ Developed and maintained business web applications using **Django, Flask & React
 
 <br/>
 
-### 📊 GitHub Stats
+### 🎯 Currently Exploring
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ostaprapavyi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostaprapavyi-dev&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-</div>
+- 🤖 Multi-Agent Systems & Agentic Workflows
+- 🔌 MCP (Model Context Protocol)
+- 📚 Advanced RAG architectures
+- ⚡ Event-Driven Architecture
+- ☸️ Kubernetes
 
-> 
+<br/>
+
+### 💬 Ask Me About
+
+`Python` · `Django / FastAPI` · `REST API design` · `PostgreSQL performance` · `AWS & Docker` · `OpenAI API integrations` · `Prompt Engineering`
 
 <br/>
 
